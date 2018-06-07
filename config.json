@@ -1,6 +1,6 @@
 {
     "algo": "cryptonight",
-    "background": true,
+    "background": false,
     "colors": true,
     "donate-level": 0,
     "log-file": null,
